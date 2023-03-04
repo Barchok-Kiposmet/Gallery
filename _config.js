@@ -1,6 +1,6 @@
 var config = {}
 
-// Update to have your correct username and password
+// Update to have your correct username and password and changes
 config.mongoURI = {
     production: 'mongodb+srv://barchokpatrick:1234@gallery.evbmrye.mongodb.net/?retryWrites=true&w=majority',
     development: 'mongodb+srv://barchokpatrick:1234>@gallery.evbmrye.mongodb.net/?retryWrites=true&w=majority',
