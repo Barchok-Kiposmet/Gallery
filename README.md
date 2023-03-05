@@ -1,5 +1,7 @@
 # DarkRoom
 
+Web service for images.
+
 # Project Description
 This is a jenkins project to test for automated deployments. [Live page](https://gallery-d1ee.onrender.com/). This project is a web site that allows users to upload and store images.
 
